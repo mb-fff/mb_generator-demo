@@ -1,0 +1,10 @@
+{
+  "name": "generator-demo",
+  "author": "mb_fff@163.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
